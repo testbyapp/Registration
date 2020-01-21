@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Mining
+</title><link rel="stylesheet" href="../css/style.css" /><link rel="stylesheet" href="../css/bootstrap.min.css" /><link rel="stylesheet" href="../css/responsive.css" /></head>
+<body>
+    <form method="post" action="./PrintRegistrationFormVehicleCheckValidOrNot.aspx?eId=31451903030100773" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="_VIEWSTATE" id="_VIEWSTATE" value="sqtBRYXPhCVK1OjLnkLmPNxLM3oDM7nKs/v/TZv6AhhARV/RCwm5s9e/MUQv0gWNp6jr7KotqtSM31IjHG1+pFfe7AyVd2xdeWSLxxM48/PHBVh3VIP3Q4xAknsJ5OKk3bFShnhM/jiK5yGxHTQrAMHUGxAfdpMtCCxEmO9kgT8Phl3qo4vVJBQWYtufG642SKtJc3UCqJxjLomSI7cyDgFteI37fhcC1aAxcw+LIZCCVsncQvxbpsFMMIPx4wHdxzUpepHIatAfTZgjHuF+6VKsIFu67w1/DnVEScPH7bNn1H78FgHFwIp394IeYGy0RGe0PN5bESX3WqiJ6Fuf5BuhIkMKHn9R+dcrYAosGLS4xzF08p6gB2M61hn9Ncm73kry6VA8SpRsted7BbSpE3lQ9q52irjUA8hVMS42mehCwuvvLOoMQIocAmsyinczm2ebdZAHrJPZwWttXSx6oHUt+53j24/LvnG5G2/7Pz8hrEAtYVP3ikFx92AaUacG3K+807fKYQDHJsKS4MmkJV66/j118cmY0t4MMxGZLE8ZlkebQdrKwQgjswfKhfp99CIuXaWfe1z8/nK72v9alS4i++pJ4kV6+zH/JGQtK3Bm9NhNFkjPYVLpeUyx958r9og7YqpVy6jtUG+YGtLLDzYkgWIRhx73u/Jamru+1EQzgB0Tpd5PZ/FYXAHpqtp38xYH/tOjNfgHcBa7+vFlPyZbMriNtoU+xlJOSjMdeQScNvivXEb4b/tzj3uVWZyE2OpwWzvM7Hv7ZxYPRbaaeTK3gLNUgZTb5afRPYZkoK2Hhf/EYwxpGFKkEXA26BiBRQ72A29Cx6S2+4qUenSQc5ZCgtzP2/n7+/FHpLRode0yfrAXTSMMclAyQDg/aknaa5yRh1iVOU4ffWx+sMFCCIYIwLBExOEM8Ztx9AZtm3TbbagRxUJe8rR0IvYrlUO6vMA2lI2t0P2tZV/k1XWZzNUV3qTE8iO4qXKqxRvEJ3Q6eruUSxsSXuX+twobr6G0" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="_VIEWSTATEGENERATOR" id="_VIEWSTATEGENERATOR" value="B75741B3" />
+	<input type="hidden" name="_VIEWSTATEENCRYPTED" id="_VIEWSTATEENCRYPTED" value="" />
+</div>
+        <div class="container">
+       <div class="row">
+        <div class="col-md-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="text-center"><strong>Geology & Mining Department </strong></h3>
+                    <h3 class="text-center"><strong> Directorate Of Geology & Mining Uttar Pradesh </strong></h3>
+                   <h3 class="text-center"><strong> Uttar Pradesh Minor Mineral Concession Rules 1963 </strong></h3>
+                   <h3 class="text-center"> e-Transit Pass Form <br/> For Transportation & Minor Mineral from Stock See Rure 70(1)</h3>
+                   <h4 class="text-center"> Form MM11 </h4>
+                </div>
+                <div class="panel-body">
+            
+                    <div class="col-md-12 table-responsive">
+                       
+                 <div class="col-md-12  text-center">This eMM11 is valid up to :<span id="lbl_formValidUpTo">10-01-2020 09:33:00 PM</span></div> 
+             
+                    <div class="col-md-12  text-center">Current Date&Time<span id="lbl_CurrentDateTime"></span></div>
+                  
+                        <div class="col-md-12  text-center"></div>
+                        <div class="col-md-12  text-left"><h3> Lease Details & Mineral QTY to be Transported:-</h3></div>
+                       <div class="col-md-12  text-center"></div>
+                            <div class="col-md-3 text-left">
+                <label>1.eMM11:-:</label>
+            </div>
+                           <div class="col-md-3 text-left">
+                <span id="lbl_etpNo">31451903030100773BNIOV</span>  
+            </div>
+                          
+
+
+                        <div class="col-md-3 text-left">
+                <label>2.NAME OF LESSEE / PERMIT HOLDER </label>
+            </div>
+                           
+<div class="col-md-3 text-left">
+                 <span id="lbl_name_of_lease">RAMKISHORE SHUKLA</span>
+            </div>
+                        </div>
+
+                       <div class="col-md-12 table-responsive">
+
+
+                           <div class="col-md-3 text-left">
+                <label>3. Mobile Number: </label>
+            </div>
+                           
+<div class="col-md-3 text-left">
+                <span id="lbl_mobile_no">7376343306</span>
+            </div>
+
+ <div class="col-md-3 text-left">
+                <label>4. Tin Number:-</label>
+            </div>
+                           <div class="col-md-3 text-left">
+                <span id="lbl_tin_number"></span>
+
+
+
+            </div>
+                           
+
+                  </div>
+
+<div class="col-md-12 table-responsive">
+
+     <div class="col-md-3 text-left"><label>5. Lessee Id: </label>
+                </div>
+                <div class="col-md-3 text-left">
+                   <span id="lbl_LeaseId">314519030301</span>
+                </div>
+
+
+    
+                <div class="col-md-3 text-left"><label>6.LEASE DETAILS [ADDRESS,VILLAGE,(GATA/KHAND),AREA]:</label>
+             </div>
+            <div class="col-md-3 text-left">
+                  <span id="lbl_leaseDetails">MALAWAAN CHAJAIPUR BAGHRAI KUNDA PRATAPGARH , MAMAULI , (1144) , 5 acre</span>
+                 </div>
+                
+
+          </div>
+                      
+                    <div class="col-md-12 table-responsive">
+
+     <div class="col-md-3 text-left"><label>7.Tehsil OF LEASE </label>
+                </div>
+                <div class="col-md-3 text-left">
+               <span id="lbl_tehsil">MEJA</span>
+                </div>
+
+
+    
+                <div class="col-md-3 text-left"><label>8.DISTRICT OF LEASE</label>
+             </div>
+            <div class="col-md-3 text-left">
+               <span id="lbl_district">ALLAHABAD</span>
+                 </div>
+
+          </div>
+
+
+                 
+               <div class="col-md-12 table-responsive">
+                <div class="col-md-3 text-left"><label>9.Lease Address:  </label>
+            </div>
+                <div class="col-md-3 text-left">
+                   <span id="lbl_lease_address"></span>
+             </div>
+                <div class="col-md-3 text-left"><label>10.QTY Transported in (Cubic Meter/Ton for Silica sand) :</label> </div>
+                  <div class="col-md-3 text-left"><span id="lbl_qty_to_Transport">14 m3</span>
+                </div>
+            </div>
+                    <div class="col-md-12 table-responsive">
+                <div class="col-md-3 text-left"><label>11.Name Of Mineral:</label>
+               </div>
+                <div class="col-md-3 text-left">
+                   <span id="lbl_type_of_mining_mineral">SAND STONE/QUARTIZITE BALLAST (GITTI)</span>
+                </div>
+           <div class="col-md-3 text-left"><label>Destination District </label>
+             </div>
+            <div class="col-md-3 text-left">
+                <span id="lbl_destination_district">LUCKNOW</span>
+                 </div>
+      </div>
+                  
+
+            <div class="col-md-12 table-responsive">
+                <div class="col-md-3 text-left"><label>12.Loading From: </label>
+                </div>
+                <div class="col-md-3 text-left">
+                   <span id="lbl_loadingfrom">ALLAHABAD</span>
+                </div>
+
+                <div class="col-md-3 text-left"><label>13.Destination (Delivery Address): </label>
+                </div>
+                <div class="col-md-3 text-left">
+                  <span id="lbl_destination_address">PNC INFRATECH LTD SARDA CAINAL LUCKNOW</span>
+                </div>
+           </div>
+
+                      <div class="col-md-12 table-responsive">
+
+                           <div class="col-md-3 text-left"><label>14.Distance(Approx): </label>
+                </div>
+                <div class="col-md-3 text-left">
+                  <span id="lbl_distrance">660</span> K.M.
+                </div>
+<div class="col-md-3 text-left"><label>15.eMM11 Generated On: </label>
+                </div>
+                <div class="col-md-3 text-left">
+                  <span id="txt_etp_generated_on">09-01-2020 10:00:00 AM</span>
+                </div>
+             
+               
+           </div>
+
+             <div class="col-md-12 table-responsive">
+                 <div class="col-md-3 text-left"><label>16.eMM11 Valid Upto: </label>
+                </div>
+                <div class="col-md-3 text-left">
+                  <span id="txt_etp_valid_upto">10-01-2020 09:33:00 PM</span>
+                </div>
+
+                 <div class="col-md-3 text-left"><label>17.Traveling Duration (Approx):</label> 
+                </div>
+                <div class="col-md-3 text-left">
+                   <span id="lbl_travel_duration">35 Hr (Approx)</span>
+                </div>
+                 <div class="col-md-3 text-left"><label>18.18.Pits Mouth Value(Rs/m3 &amp;Rs/Ton for Silica sand):</label> 
+                </div>
+                <div class="col-md-3 text-left">
+                   <span id="pit">110</span>
+                </div>
+                
+                
+           </div>
+
+
+             
+
+                    <div class="col-md-12  text-center"></div>
+                        <div class="col-md-12  text-left"><h3>
+Details Of Registered Vehicle:-</h3></div>
+                       <div class="col-md-12  text-center"></div>
+                    <div class="col-md-12 table-responsive">
+              
+        
+                  <div class="col-md-3 text-left"><label>1. Registration Number Of Vehicle:</label>         </div>
+                <div class="col-md-3 text-left">
+                  <span id="lbl_registraton_number_of_vehicle">UP32KN1487</span>
+                </div>
+                 <div class="col-md-3 text-left"><label>2. Name Of Driver : </label>      </div>
+                <div class="col-md-3 text-left">
+                  <span id="lbl_name_of_driver">BHAGAWANDEEN</span>
+                </div>
+                
+            </div>
+
+            <div class="col-md-12 table-responsive">
+              
+                
+
+                  <div class="col-md-3 text-left"><label>3. Mobile Number Of Driver:</label>      </div>
+                <div class="col-md-3 text-left">
+                  <span id="lbl_mobile_number_of_driver">9935892144</span>
+                </div>
+                    <div class="col-md-3 text-left"><label>4. Type Of Vehicle: </label>
+                </div>
+                <div class="col-md-3 text-left">
+                  <span id="lbl_vehicleType">12 TYRE TRUCK</span>
+                </div>
+                
+            </div>
+
+
+               <div class="col-md-12 table-responsive">
+                
+                <div class="col-md-3 text-left"><label>5. DL Number: </label> 
+                </div>
+                <div class="col-md-3 text-left">
+                    <span id="lbl_dl_number"></span>
+                </div>
+
+                  
+            </div>
+</div>
+</div>
+</div>
+</div>
+
+             <table  class="main-form-table">
+                  
+              
+
+          
+        </table>
+
+  
+         
+    </form>
+</body>
+</html>
